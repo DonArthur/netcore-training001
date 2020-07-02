@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MfkqNEqlo82d4yHkHWfJ3DFsd9QTe/bD7mn6ariN8zk3esnQQM0t7+ayYHuAOVTAukJhK90bQ1dJcZnHKM5u7A==",
+  "dgSpecHash": "0b5lW/bmRL05RCyvaeVxgMD8amm5HvUEpj9YyirKOCBDwVGRJmxoIOHGD4B07omdL7usL67u+SW7Ys7acWFEwQ==",
   "success": true,
-  "projectFilePath": "D:\\Private\\Locker\\Practice\\netcore-training001\\Shop\\Shop.Application\\Shop.Application.csproj",
+  "projectFilePath": "D:\\Private\\Locker\\Practice\\netcore-training001\\Shop\\Shop.Database\\Shop.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sahassa-PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\Sahassa-PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",
